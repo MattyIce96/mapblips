@@ -1,5 +1,7 @@
 # mapblips
 
+Do not download the .gitignore
+
 Digital Playground RP
 
 If you need any help with it, you can join the discord or add me directly
