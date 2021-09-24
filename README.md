@@ -2,6 +2,8 @@
 
 Do not download the .gitignore
 
+DONT FORGET TO MAKE COMMENTS ON YOUR BLIPS, OR ELSE IT WILL GET VERY MESSY AND YOU WILL FIND YOURSELF TRYING TO FIND THEM ;)
+
 Digital Playground RP
 
 If you need any help with it, you can join the discord or add me directly
